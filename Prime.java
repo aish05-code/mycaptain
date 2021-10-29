@@ -5,7 +5,7 @@ class Prime
     void input()
     {
         Scanner sc=new Scanner(System.in);
-        System.out.println ("Enter a value:");
+        System.out.println ("Please insert a value:");
         num=sc.nextInt();
     }
 
